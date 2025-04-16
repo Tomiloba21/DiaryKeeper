@@ -1,0 +1,23 @@
+.styled-text-field {
+    -fx-background-color: white;
+    -fx-background-radius: 5;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+}
+
+.styled-text-field:focused {
+    -fx-border-color: #4a90e2;
+}
+
+.styled-button {
+    -fx-background-color: #4a90e2;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+    -fx-padding: 8 15;
+}
+
+.styled-button:hover {
+    -fx-background-color: #357abd;
+}
