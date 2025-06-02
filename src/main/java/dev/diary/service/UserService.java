@@ -1,7 +1,8 @@
-package dev.sec3.se3.service;
+package dev.diary.service;
 
-import dev.sec3.se3.dao.UserDAO;
-import dev.sec3.se3.model.User;
+
+import dev.diary.dao.UserDAO;
+import dev.diary.model.User;
 
 import java.util.Optional;
 

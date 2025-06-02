@@ -1,6 +1,6 @@
-package dev.sec3.se3.gui;
+package dev.diary.gui;
 
-import dev.sec3.se3.service.UserService;
+import dev.diary.service.UserService;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;

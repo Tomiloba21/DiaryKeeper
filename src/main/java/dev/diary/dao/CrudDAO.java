@@ -1,4 +1,4 @@
-package dev.sec3.se3.dao;
+package dev.diary.dao;
 
 import java.util.List;
 import java.util.Optional;

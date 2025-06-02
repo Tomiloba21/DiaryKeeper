@@ -1,8 +1,8 @@
-package dev.sec3.se3.dao;
+package dev.diary.dao;
 
-import dev.sec3.se3.db.DatabaseConnection;
-import dev.sec3.se3.model.User;
-import dev.sec3.se3.model.UserRole;
+import dev.diary.db.DatabaseConnection;
+import dev.diary.model.User;
+import dev.diary.model.UserRole;
 
 import java.sql.*;
 import java.time.LocalDateTime;

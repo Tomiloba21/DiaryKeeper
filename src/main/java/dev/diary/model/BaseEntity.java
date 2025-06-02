@@ -1,4 +1,4 @@
-package dev.sec3.se3.model;
+package dev.diary.model;
 import java.time.LocalDateTime;
 
 public abstract class BaseEntity {

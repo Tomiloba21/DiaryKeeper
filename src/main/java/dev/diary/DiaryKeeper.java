@@ -1,6 +1,6 @@
-package dev.sec3.se3;
-import dev.sec3.se3.gui.LoginView;
-import dev.sec3.se3.service.UserService;
+package dev.diary;
+import dev.diary.gui.LoginView;
+import dev.diary.service.UserService;
 import javafx.application.Application;
 
 import javafx.stage.Stage;

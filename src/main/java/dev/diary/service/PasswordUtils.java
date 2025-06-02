@@ -1,4 +1,4 @@
-package dev.sec3.se3.service;
+package dev.diary.service;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

@@ -1,4 +1,4 @@
-package dev.sec3.se3.model;
+package dev.diary.model;
 
 public class User extends BaseEntity{
     private String username;

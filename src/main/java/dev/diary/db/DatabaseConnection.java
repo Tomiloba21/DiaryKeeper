@@ -1,4 +1,4 @@
-package dev.sec3.se3.db;
+package dev.diary.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 public class DatabaseConnection {
 
-    private static final String URL = "jdbc:mysql://localhost:3306/diarykeeper";
+    private static final String URL = "jdbc:mysql://localhost:3306/diaryKeeper";
     private static final String USERNAME = "root"; // Replace with your MySQL username
     private static final String PASSWORD = "Java2023!"; // Replace with your MySQL password
     private static Connection connection;

@@ -1,4 +1,4 @@
-package dev.sec3.se3.gui;
+package dev.diary.gui;
 
 import javafx.scene.control.Alert;
 import javafx.scene.control.Button;

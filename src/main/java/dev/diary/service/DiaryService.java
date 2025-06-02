@@ -1,8 +1,8 @@
-package dev.sec3.se3.service;
+package dev.diary.service;
 
-import dev.sec3.se3.dao.DiaryEntryDAO;
-import dev.sec3.se3.model.DiaryEntry;
-import dev.sec3.se3.model.EntryMood;
+import dev.diary.dao.DiaryEntryDAO;
+import dev.diary.model.DiaryEntry;
+import dev.diary.model.EntryMood;
 
 import java.sql.SQLException;
 import java.time.LocalDateTime;
